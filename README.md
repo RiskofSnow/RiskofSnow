@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hello!
+
+I'm currently a student at Tech Elevator, learning full-stack Java software development, along with HTML and CSS!
+My pronouns are she/it, and you can reach me at yoyofoe1@gmail.com
 
 <!--
 **RiskofSnow/RiskofSnow** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
